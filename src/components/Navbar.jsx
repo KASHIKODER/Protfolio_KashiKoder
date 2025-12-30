@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react'
 import { navLinks } from '@/constants/constants'
 import { styles } from '@/styles'
 import { menu, close } from '@/assets'
-import logo from '@/assets/logo.svg'
+import logo from '@/assets/logo.png'
 import Image from 'next/image'
 
 const Navbar = () => {
@@ -46,8 +46,8 @@ const Navbar = () => {
           }}
         >
           <Image src={logo} alt='logo' className='w-10 h-10 object-contain' />
-          <p className='text-white text-[29px] font-bold cursor-pointer flex relative right-2 '>
-            imanshu &nbsp;
+          <p className='text-white text-[29px] font-bold cursor-pointer flex relative right-4 '>
+            uyash  &nbsp;
             <span className='sm:block hidden'> </span>
           </p>
         </Link>
