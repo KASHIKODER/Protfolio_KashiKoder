@@ -140,7 +140,7 @@ const technologies = [
 
 const projects = [
   {
-    name: "Syncronus",
+    name: "Samwaad",
     description:
       "A full-stack responsive chat app with real-time communication using Socket.io. Features include group chats, file upload/download, and more. Built with React, Node.js, Express, MongoDB, Zustand, and other modern technologies.",
     features: [
@@ -169,8 +169,8 @@ const projects = [
       },
     ],
     image: inkSync,
-    source_code_link: "https://github.com/himanshu8443/InkSync",
-    live_link: "https://www.inksync.cloud/",
+    source_code_link: "https://github.com/KASHIKODER/Samvaad",
+    live_link: "https://samvaad-kashi.onrender.com/auth",
   },
   // {
   //   name: "Hayasaka",
@@ -250,8 +250,8 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/himanshu8443/Study-Notion-master",
-    live_link: "https://studynotion-master.vercel.app/",
+    source_code_link: "https://github.com/KASHIKODER/Kashi-Learning-client",
+    live_link: "https://kashi-learning-client.vercel.app/",
   },
   // {
   //   name: "FlipKart Price Tracker",
